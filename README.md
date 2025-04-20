@@ -19,7 +19,7 @@ Saya Fariz Wibisono dengan NIM 2307589 mengerjakan Tugas Praktikum 7 dalam mata 
 Berikut adalah dokumentasi berupa rekaman hasil implementasi program:
 
 <div align="center">
-    <img src="screenshots/demo.mp4" alt="Lihat Video" style="width: 100%;">
+   <video src="https://github.com/user-attachments/assets/bb1edbc5-1f47-45d8-966b-5faac161acb8" controls style="width: 100%;"></video>
 </div>
 
 ### Diagram Kelas
